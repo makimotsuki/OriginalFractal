@@ -2,7 +2,7 @@ public void setup()
 {
   size(500,500);
   rectMode(CENTER);
-  stroke((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255));
+  stroke(255);
   fill((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255),180);
 
 }
