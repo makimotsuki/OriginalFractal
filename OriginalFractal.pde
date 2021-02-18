@@ -3,7 +3,7 @@ public void setup()
   size(500,500);
   rectMode(CENTER);
   stroke((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255));
-  fill((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255),150);
+  fill((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255),180);
 
 }
 public void draw()
